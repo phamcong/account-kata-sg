@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AccountsKata.Api/AccountsKata.Api.csproj" />
+    <Project Path="src/AccountsKata.Core/AccountsKata.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AccountsKata.Tests/AccountsKata.Tests.csproj" />
+  </Folder>
+</Solution>
